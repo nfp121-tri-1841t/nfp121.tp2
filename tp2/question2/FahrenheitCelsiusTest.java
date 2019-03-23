@@ -69,4 +69,16 @@ public class FahrenheitCelsiusTest extends junit.framework.TestCase
      * Vous pouvez ébaucher le corps grâce au menu contextuel "Enregistrer une méthode de test".
      */
 
+
+    public void testMethode()
+    {   String [] args={"0","100","2006" };
+        question2.FahrenheitCelsius.main(args);
+    
+    }
+
+
+    
 }
+
+
+
